@@ -1,5 +1,5 @@
 <!DOCTYPE html><html lang="ko"><head><meta charset="utf-8"><title>모든 곤충과 생물</title>
-    <meta name="google-site-verification" content="HlbgaZAsIEPw9H_8bDm6uqUoVzwuBc0O3QaY0s1jKjo">
+    <meta name="google-site-verification" content="6zHw9eu76TMWWTM41KLSW0HlCU2tphJz-QdBPQGHAuY" />
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <script>
        (adsbygoogle = window.adsbygoogle || []).push({
